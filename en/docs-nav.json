@@ -1,28 +1,20 @@
 {
     "items": [
         {
-            "text": "Getting Started",
+            "text": "Genel Başlangıç",
             "items": [
                 {
-                    "text": "asd",
-                    "path": "genel.md"
-                },
-                {
-                    "text": "asdx",
-                    "path": "genel2.md"
+                    "text": "Limit sistemi",
+                    "path": "limitler.md"
                 }
             ]
         },
         {
-            "text": "Gettiang Started2",
+            "text": "Anlatımlar",
             "items": [
                 {
-                    "text": "asdf",
-                    "path": "genel3.md"
-                },
-                {
-                    "text": "asdy",
-                    "path": "genel3.md"
+                    "text": "test",
+                    "path": "test1.md"
                 }
             ]
         }
