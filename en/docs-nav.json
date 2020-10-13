@@ -11,10 +11,10 @@
                     "text": "asdx",
                     "path": "genels.md"
                 }
-
             ]
-        },{
-            "text": "Getting Started2",
+        },
+        {
+            "text": "Gettiang Started2",
             "items": [
                 {
                     "text": "asdf",
@@ -24,7 +24,6 @@
                     "text": "asdy",
                     "path": "genely.md"
                 }
-
             ]
         }
     ]
