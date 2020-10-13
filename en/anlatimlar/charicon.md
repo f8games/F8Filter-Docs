@@ -7,7 +7,7 @@ Charicon oyun içerisindeki karakterlere, karakter isminin yanında o karaktere 
 
 >Kırmızı ile belirtilen alan, "<span style="color:red">Service</span>" kolonudur. Bu alandan eklediğimiz icon'u aktif veya deaktif edebiliriz.
 >
->Yeşil ile belirtilen alan, "<span style="color:green">Dosya yolu</span>" kolonudur. Bu alandan media.pk2 dosyanıza eklemiş olduğunuz dosyanın yolunu gösterebilirsiniz.
+>Yeşil ile belirtilen alan, "<span style="color:green">Dosya yolu</span>" kolonudur. Bu alandan media.pk2 dosyanıza eklemiş olduğunuz dosyanın(iconun) yolunu gösterebilirsiniz.
 >
 >Mavi ile belirtilen alan, "<span style="color:blue">ID</span>" kolonudur. Bu alandan iconunuza bir ID tanımlayabilirsiniz. Tanımladığınız bu ID'yi veritabanı tarafında kullanacaksınız.
 
