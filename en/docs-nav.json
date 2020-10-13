@@ -5,9 +5,26 @@
             "items": [
                 {
                     "text": "asd",
-                    "text":"dsa",
+                    "path": "genel.md"
+                },
+                {
+                    "text": "asdx",
                     "path": "genel.md"
                 }
+
+            ]
+        },{
+            "text": "Getting Started2",
+            "items": [
+                {
+                    "text": "asdf",
+                    "path": "genel.md"
+                },
+                {
+                    "text": "asdy",
+                    "path": "genel.md"
+                }
+
             ]
         }
     ]
