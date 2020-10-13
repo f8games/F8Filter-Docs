@@ -5,6 +5,8 @@ Charicon oyun içerisindeki karakterlere, karakter isminin yanında o karaktere 
 ### İstemci(Client) tarafı;
 ![Add IIS Website](../images/chariconclientside.png)
 
+**RefRankCrest.txt dosyası media.pk2 dosyanızda "server_dep/silkroad/textdata/refrackcrest.txt" yolunda bulunmaktadır.**
+
 >Kırmızı ile belirtilen alan, "<span style="color:red">Service</span>" kolonudur. Bu alandan eklediğimiz icon'u aktif veya deaktif edebiliriz.
 >
 >Yeşil ile belirtilen alan, "<span style="color:green">Dosya yolu</span>" kolonudur. Bu alandan media.pk2 dosyanıza eklemiş olduğunuz dosyanın(iconun) yolunu gösterebilirsiniz.
