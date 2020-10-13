@@ -11,11 +11,4 @@ CharID: Kullanıcının karakterinin veritabanındaki sanal kimliği.
 RankCrest: Kullanıcıya vereceğiniz iconın IDsi.
 ````
 
-````csharp
-Configure<AbpTenantResolveOptions>(options =>
-{
-    options.AddDomainTenantResolver("{0}.mydomain.com");
-});
-````
-
 **NOT:** <span style="color:red">Bir karakter aynı anda en fazla 1 charicon'a sahip olabilir.</span>
