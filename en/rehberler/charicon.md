@@ -3,7 +3,7 @@
 Charicon oyun içerisindeki karakterlere, karakter isminin yanında o karaktere özel verebileceğiniz icon sistemidir.
 
 ### İstemci(Client) tarafı;
-![Add IIS Website](../images/chariconclientside.png)
+![RefRankCrest](../images/chariconclientside.png)
 
 **RefRankCrest.txt dosyası media.pk2 dosyanızda "server_dep/silkroad/textdata/refrackcrest.txt" yolunda bulunmaktadır.**
 
@@ -14,7 +14,7 @@ Charicon oyun içerisindeki karakterlere, karakter isminin yanında o karaktere 
 >Mavi ile belirtilen alan, "<span style="color:blue">ID</span>" kolonudur. Bu alandan iconunuza bir ID tanımlayabilirsiniz. Tanımladığınız bu ID'yi veritabanı tarafında kullanacaksınız.
 
 ### Veritabanı tarafı;
-![Add IIS Website](../images/charicondbside.png)
+![CharIcon](../images/charicondbside.png)
 
 
 > <span style="color:red">CharID</span>: Kullanıcının karakterinin veritabanındaki sanal kimliği.

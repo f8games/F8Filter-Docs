@@ -12,22 +12,22 @@ Discord Overlay entegrasyonu, oyuncularınız discord uygulaması üzerinde çev
 
 **Öncelikle discord hesabımız ile [discord developer portalına](https://discord.com/developers/applications) giriş yapıyoruz.**
 
-![Add IIS Website](../images/discordsite1.png)
+![Discord Site](../images/discordsite1.png)
 
 **Ardından New Application'a tıklayarak bir Application oluşturuyoruz.**
 
-![Add IIS Website](../images/discordsite2.png)
+![Discord Application Olusturma](../images/discordsite2.png)
 
 **Name alanına oyun uygulama adını yazıyoruz ve Create butonuna basarak uygulamamızı oluşturuyoruz.**
 
-![Add IIS Website](../images/discordsite3.png)
+![Discord Developer Portal](../images/discordsite3.png)
 
 **Uygulamamızı başarı ile oluşturduk. Şimdi bu alandaki Client ID'yi alıp Filter sitesindeki APP ID bölümüne yazıyoruz.**
 
-![Add IIS Website](../images/discordsite4.png)
+![Risch Presence Art Assets](../images/discordsite4.png)
 
 **Şimdi "Rich Presence" alanındaki "Art Assets" bölümüne gelip discord iconumuzu oluşturalım. "örneğin biz dc_large.png adında oluşturduk." Add image(s) butonuna tıklayıp oluşturduğumuz iconu ekliyoruz. Daha sonrasında ise Filter sitesindeki Large Image Name alanına eklemiş olduğunuz icon'un adını yazıyorsunuz.**
 
-![Add IIS Website](../images/discordoverlay.png)
+![Discord Display](../images/discordoverlay.png)
 
 **Hepsi bu kadar. Son olarak Filter sitesindeki Display Name bölümüne Oyununuzun server adını girmeyi unutmayın.**
