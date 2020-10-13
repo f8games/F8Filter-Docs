@@ -30,4 +30,4 @@ Discord Overlay entegrasyonu, oyuncularınız discord uygulaması üzerinde çev
 
 ![Add IIS Website](../images/discordoverlay.png)
 
-**Hepsi bu kadar. Son olarak Filter sitesindeki Display Name bölümüne Oyununuzun adını girmeyi unutmayın.**
+**Hepsi bu kadar. Son olarak Filter sitesindeki Display Name bölümüne Oyununuzun server adını girmeyi unutmayın.**
