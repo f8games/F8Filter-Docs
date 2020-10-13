@@ -20,7 +20,7 @@ Charicon oyun içerisindeki karakterlere, karakter isminin yanında o karaktere 
 > RankCrest: Kullanıcıya vereceğiniz iconın ID'si. 
 
 
-### Örnek bir SQL kodu ile "<span style="color:red">F8FilterTEST</span>" isimli kullanıcı'ya RankCrest textimizdeki 1 numaralı icon'u verelim;
+**Örnek bir SQL kodu ile "<span style="color:red">F8FilterTEST</span>" isimli kullanıcı'ya RankCrest textimizdeki 1 numaralı icon'u verelim;**
 
 ~~~~sql
 [USE F8Filter]
