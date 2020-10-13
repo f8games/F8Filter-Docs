@@ -26,7 +26,7 @@ Charicon oyun içerisindeki karakterlere, karakter isminin yanında o karaktere 
 
 ~~~~Mssql
 [USE F8Filter]
-update _Char set RankCrest = '1' where CharID = (select CharID from SRO_VT_SHARD.._Char(NOLOCK) where charname16 = 'F8FilterTEST') --Eğer shard veritabanı adınız SRO_VT_SHARD değilse query'i kendi shard veritabanı adınız ile çalıştırabilirsiniz.
+update _Char set RankCrest = '1' where CharID = (select CharID from SRO_VT_SHARD.._Char(NOLOCK) where charname16 = 'F8FilterTEST') --Eğer shard veritabanı adınız SRO_VT_SHARD değilse query'i kendi shard veritabanı adınız ile çalıştırmalısınız.
 ~~~~
 
 **NOT:** <span style="color:red">Bir karakter aynı anda en fazla 1 charicon'a sahip olabilir.</span>
