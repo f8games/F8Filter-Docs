@@ -17,7 +17,7 @@ Charicon oyun içerisindeki karakterlere, karakter isminin yanında o karaktere 
 
 > CharID: Kullanıcının karakterinin veritabanındaki sanal kimliği.
 > 
-> RankCrest: Kullanıcıya vereceğiniz iconın ID'si. 
+> RankCrest: Kullanıcıya vereceğiniz iconun ID'si. 
 
 
 **Örnek bir SQL kodu ile "<span style="color:red">F8FilterTEST</span>" isimli kullanıcı'ya RankCrest textimizdeki 1 numaralı icon'u verelim;**
