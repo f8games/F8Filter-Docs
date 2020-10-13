@@ -19,6 +19,10 @@
                 {
                     "text": "Charicon nasıl kullanılır?",
                     "path": "rehberler/charicon.md"
+                },
+                {
+                    "text": "Discord Overlay nasıl kullanılır?",
+                    "path": "rehberler/discordoverlay.md"
                 }
             ]
         }
