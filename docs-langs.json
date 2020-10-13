@@ -4,6 +4,11 @@
       "DisplayName" : "English",
       "Code" : "en",
       "IsDefault": true
+    },
+    {
+      "DisplayName" : "Türkçe",
+      "Code" : "tr",
+      "IsDefault": false
     }
   ]
 }
