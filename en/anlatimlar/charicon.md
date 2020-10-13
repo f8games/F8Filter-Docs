@@ -1,5 +1,7 @@
-# Veritabanı işlemleri
+# Charicon Kullanım rehberi
 
-### Account veritabanı
+Charicon oyun içerisindeki karakterlere, karakter isminin yanına o karaktere özel verebileceğiniz iconun sistemidir.
 
-### Shard veritabanı
+
+
+### NOT:<span style="color:red">Bir karakter aynı anda en fazla 1 charicon'a sahip olabilir.</span>
