@@ -24,7 +24,7 @@ Discord Overlay entegrasyonu, oyuncularınız discord uygulaması üzerinde çev
 
 **Uygulamamızı başarı ile oluşturduk. Şimdi bu alandaki Client ID'yi alıp Filter sitesindeki APP ID bölümüne yazıyoruz.**
 
-![Risch Presence Art Assets](../images/discordsite4.png)
+![Rich Presence Art Assets](../images/discordsite4.png)
 
 **Şimdi "Rich Presence" alanındaki "Art Assets" bölümüne gelip discord iconumuzu oluşturalım. "örneğin biz dc_large.png adında oluşturduk." Add image(s) butonuna tıklayıp oluşturduğumuz iconu ekliyoruz. Daha sonrasında ise Filter sitesindeki Large Image Name alanına eklemiş olduğunuz icon'un adını yazıyorsunuz.**
 
