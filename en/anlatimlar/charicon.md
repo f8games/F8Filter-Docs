@@ -5,10 +5,10 @@ Charicon oyun içerisindeki karakterlere, karakter isminin yanına o karaktere �
 ### Veritabanı ayarı;
 ![Add IIS Website](../images/charicondbside.png)
 
+```
+`CharID`: Kullanıcının karakterinin veritabanındaki sanal kimliği.
 
->`CharID`: Kullanıcının karakterinin veritabanındaki sanal kimliği.
-
->`RankCrest`: Kullanıcıya vereceğiniz iconın ID'si.
-
+`RankCrest`: Kullanıcıya vereceğiniz iconın ID'si.
+```
 
 ### NOT: <span style="color:red">Bir karakter aynı anda en fazla 1 charicon'a sahip olabilir.</span>
