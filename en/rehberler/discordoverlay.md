@@ -30,4 +30,4 @@ Discord Overlay entegrasyonu, oyuncularınız discord uygulaması üzerinde çev
 
 ![Discord Display](../images/discordoverlay.png)
 
-**Hepsi bu kadar. Son olarak Filter sitesindeki Display Name bölümüne Oyununuzun server adını girmeyi unutmayın.**
+**Hepsi bu kadar. Son olarak Filter sitesindeki Display Name bölümüne Oyununuzun server adını yazmayı unutmayın.**
