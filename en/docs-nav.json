@@ -31,6 +31,10 @@
                 {
                     "text": "HwanColor(Title) nasıl kullanılır?",
                     "path": "rehberler/hwancolor.md"
+                },
+                {
+                    "text": "GlobalChattingColor nasıl kullanılır?",
+                    "path": "rehberler/GlobalChattingColor.md"
                 }
             ]
         }
