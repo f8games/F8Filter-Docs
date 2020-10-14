@@ -23,6 +23,14 @@
                 {
                     "text": "Discord Overlay nasıl kullanılır?",
                     "path": "rehberler/discordoverlay.md"
+                },
+                {
+                    "text": "CharNameColor nasıl kullanılır?",
+                    "path": "rehberler/charnamecolor.md"
+                },
+                {
+                    "text": "HwanColor(Title) nasıl kullanılır?",
+                    "path": "rehberler/hwancolor.md"
                 }
             ]
         }
