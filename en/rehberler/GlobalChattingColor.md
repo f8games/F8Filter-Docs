@@ -24,6 +24,6 @@ Yukarıdaki almış olduğumuz hex kodunun başına (FF) ekliyoruz ve sonrasınd
 
 ![Global Chatting Color Tablosu](../images/GlobalChattingColor.png)
 
-Shard veritabanımızdaki _RefObjCommon ID'mizi ekledikten sonra ARGB kolonuna yukarıda almış olduğumuz decimal sonucu ekliyoruz ve global chatting eşyamız belirlemiş olduğumuz renge dönmüş oluyor.
+Shard veritabanımızdaki _RefObjCommon ID'mizi ekledikten sonra ARGB kolonuna yukarıda almış olduğumuz decimal sonucu ekliyoruz ve işlemimizi tamamlamış oluyoruz.
 
 **<span style="color:red">NOT</span>: İşlem sonrasında Filter sunucunuza işlemlerin aktifleşmesi için restart atmanız gerekmektedir.**
