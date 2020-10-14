@@ -22,6 +22,14 @@ Yukarıdaki almış olduğumuz hex kodunun başına (FF) ekliyoruz ve sonrasınd
 
 Çıkarttığımız bu decimal moddaki sonuç ARGB olan bu rengin int değeridir. Daha sonrasında ise önceden klonlamış olduğumuz ve renklendirmek istediğimiz Global Chatting eşyamızın Shard veritabanımızdaki "_RefObjCommon" ID'sini F8Filter veritabanımızdaki "_RefGlobalChattingColor" tablosundaki RefItemID kolonuna ekliyoruz.
 
+![QWORD'den DWORD'e geçiş](../images/calculatorhex3.png)
+
+Son olarak QWORD olarak listelenmiş bu decimal sonucumuzu DWORD'e çevireceğiz. Bunun için yine hesap makinemizdeki QWORD butonuna tıklıyor ve çıkan sonucumuzu DWORD'e çeviriyoruz.
+
+![DWORD değer](../images/calculatorhex3.png)
+
+Gördüğünüz gibi QWORD butonuna tıkladığımızda sonucumuz DWORD'e dönüştü.
+
 ![Global Chatting Color Tablosu](../images/GlobalChattingColor.png)
 
 Shard veritabanımızdaki _RefObjCommon ID'mizi ekledikten sonra ARGB kolonuna yukarıda almış olduğumuz decimal sonucu ekliyoruz ve işlemimizi tamamlamış oluyoruz.
